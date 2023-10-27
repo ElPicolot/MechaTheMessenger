@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/StarterContent/Blueprints/CubeTest_Blueprint.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/BPI_Interaction.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/BoxTriTest_Blueprint.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/TriggerBoxtest_Blueprint.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/CubeTestBP.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/J6/19XCSRL3G9ZTC5HYMUR1DU.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2C/NYELZXWB4PCZSUCY3FPIJR.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZM/XCWNAOP2OVEHY90GV9QHNC.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/BP_Test.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/InteracteInterface.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BQ/KG4FHM7WQF5FVKO2BAWI6T.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XH/MUIKTD05QVQ85MYMZ1WJG7.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QR/XCVDU760Z3FH4N0F5Q923Y.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AL/4XGGUJ08FWNKL5FVA62KQS.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QJ/2S8C3RD3WBVJFIEUB7KHZF.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8P/R3U6N150NTY0EENE3Z8PXR.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ER/EMXGPLHC8XTBZGW93CUUUL.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KM/V0W4NAL9PGRETEJ39Z8C9T.uasset",
+				"C:/Users/Utilisateur/Documents/Unreal Projects/MechaTheMessenger/Content/BP_Interaction.uasset"
+			]
+		}
+	]
+}
